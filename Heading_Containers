@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+#borderimg { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 10 stretch;
+}
+</style>
+</head>
+<body>
+
+<p id="borderimg">SG Group</p>
+
+</body>
+</html>
+
+
